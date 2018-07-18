@@ -1,32 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites errors="0"
+<testsuites errors="1"
             failures="0"
-            tests="4">
+            tests="1">
 
-  <testsuite name="test"
-    errors="0" failures="0" hostname="" id="" package="test" skipped="0"
-    tests="4" time="13.54" timestamp="Tue, 17 Jul 2018 21:51:41 GMT">
+  <testsuite name="DEM-6"
+    errors="1" failures="0" hostname="" id="" package="DEM-6" skipped="0"
+    tests="1" time="0.005000" timestamp="Tue, 17 Jul 2018 21:54:03 GMT">
   
-    <testcase name="Check side list" classname="test" time="2.166" assertions="1">
-
-    
-    </testcase>
-  
-    <testcase name="Field lines1" classname="test" time="0.5770" assertions="1">
-
-    
-    </testcase>
-  
-    <testcase name="Field lines2" classname="test" time="0.4610" assertions="1">
-
-    
-    </testcase>
-  
-    <testcase name="Field lines3" classname="test" time="10.34" assertions="2">
-
-    
-
-    
+    <testcase name="Naigating Away" classname="DEM-6" time="0.005000" assertions="0">
     </testcase>
   
 
